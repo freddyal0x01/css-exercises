@@ -1,0 +1,21 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.reg {
+    background-color: #FEA7A7;
+}
+
+#two {
+    font-size: 36px;
+    color: blue;
+}
+
+.adjust-font {
+    font-size: 24px;
+}
+
+#four {
+    background-color: #80FF80;
+    font-weight: bold;
+}
